@@ -1,8 +1,8 @@
 # Praktikum OOP Python Kelas XI
 
 ## Identitas
-- Nama  : (isi nama kamu)
-- Kelas : XI RPL
+- Nama  : (Bilal Mayor Abdillah)
+- Kelas : XI RPL 5
 - Mapel : Koding & Kecerdasan Artifisial
 
 ---
